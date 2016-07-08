@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Moveinsync</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fill_location">Please fill location name</string>
+    <string name="search_location">Search location</string>
+    <string name="search">Search</string>
+    <string name="save_location">Save location</string>
+    <string name="saved_location">Saved location</string>
+</resources>
